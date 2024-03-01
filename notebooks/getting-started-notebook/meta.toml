@@ -1,0 +1,8 @@
+[meta]
+title = "Getting Started with Single Store Notebooks"
+description = """\
+    Simple Intro to notebooks
+    """
+icon = "database"
+tags = ["starter", "python"]
+destinations = ["spaces"]
